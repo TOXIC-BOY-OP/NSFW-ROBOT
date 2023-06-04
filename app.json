@@ -1,5 +1,5 @@
 {
-    "name": "Group Guardian",
+    "name": "NSFW-ROBOT",
     "description": "Telegram Group Cleaner is an open source Telegram bot designed to help group administrators maintain a clean and safe environment for their communities.",
     "logo": "",
     "keywords": [
@@ -9,9 +9,9 @@
         "Telegram Bot",
         "NacBots"
     ],
-    "website": "https://t.me/NacBots",
-    "repository": "https://github.com/nacbots/BroadcastBot",
-    "success_url": "https://github.com/nacbots",
+    "website": "https://t.me/NSFW_SAFE_ROBOT",
+    "repository": "https://github.com/TOXIC-BOY-OP/NSFW-ROBOT",
+    "success_url": "https://github.com/NSFW-ROBOT",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
@@ -37,7 +37,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco dynos"
         }
     }
 }
