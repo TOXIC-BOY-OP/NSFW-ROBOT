@@ -21,8 +21,8 @@ To use Group Guardianship, simply add the bot to your Telegram group and promote
 ### Easiest Heroku Deploy 🤭
 
 <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/nacbots/group-guardian">
-    <img src="https://github.com/nacbots/broadcastbot/blob/main/herokudeploy-01.svg" alt="herokudeploy-01" border="0" height="90" width="285"></a>
+    <a href="https://heroku.com/deploy?template=https://github.com/TOXIC-BOY-OP/NSFW-ROBOT">
+    <img src="https://github.com/NSFW-ROBOT/broadcastbot/blob/main/herokudeploy-01.svg" alt="herokudeploy-01" border="0" height="90" width="285"></a>
 </p>
 
 ### Host Locally 🤕
