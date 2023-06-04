@@ -30,7 +30,7 @@ To use Group Guardianship, simply add the bot to your Telegram group and promote
 1. Clone this repository to your local machine using:
 
     ```
-    git clone https://github.com/nacbots/group-guardian
+    git clone https://github.com/TOXIC-BOY-OP/NSFW-ROBOT
     ```
 
 2. Install the required dependencies using pip:
@@ -54,13 +54,13 @@ To use Group Guardianship, simply add the bot to your Telegram group and promote
 
 ## Support Group:
 
-<a href="https://t.me/NACBots"><img src="https://img.shields.io/badge/Telegram-Updates%20Channel-blue.svg?logo=telegram"></a><a href="https://t.me/n_a_c_bot_developers"><img src="https://img.shields.io/badge/Telegram-Support%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/SHAYRI_WORLD"><img src="https://img.shields.io/badge/Telegram-Updates%20Channel-blue.svg?logo=telegram"></a><a href="https://t.me/DOSTO_KI_M3HFIL"><img src="https://img.shields.io/badge/Telegram-Support%20Group-blue.svg?logo=telegram"></a>
 
 ## Contributors
 
- - [@NikhilEashy](https://github.com/nikhileashy)
+ - [OFFLINE_HU_VMRO](https://telegram.me/OFFLINE_HU_VMRO)
 
- - [@Muhsina-km](https://github.com/muhsina-km)
+ - [XO_TERA_BAAP_BAAP_ON_FIRE](https://telegram.me/XO_TERA_BAAP_ON_FIRE)
 
 <a href="https://pyrogram.org"><img src="https://i.ibb.co/SVLD5k8/Document-1222546317.png" alt="pyrogram" border="0"></a>
 
